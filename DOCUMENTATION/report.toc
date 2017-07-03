@@ -1,0 +1,50 @@
+\contentsline {paragraph}{}{ii}
+\contentsline {paragraph}{}{ii}
+\contentsline {paragraph}{}{ii}
+\contentsline {section}{Executive Summary}{ii}
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}Aim of this report}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {subsection}{\numberline {1.2}Team members}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {section}{\numberline {2}Problem statement}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {subsection}{\numberline {2.1}Project's topic description}{1}
+\contentsline {paragraph}{}{2}
+\contentsline {subsection}{\numberline {2.2}Problem recognition and possible solutions}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {subsection}{\numberline {2.3}Final solution}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {section}{\numberline {3}Research project}{3}
+\contentsline {subsection}{\numberline {3.1}Web applications}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {subsection}{\numberline {3.2}Tools}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {subsection}{\numberline {3.3}Used systems}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {subsection}{\numberline {3.4}Application installation}{4}
+\contentsline {subsubsection}{\numberline {3.4.1}Installation of WebGoat 2017}{4}
+\contentsline {subsubsection}{\numberline {3.4.2}Installation of Google Gruyere}{5}
+\contentsline {subsubsection}{\numberline {3.4.3}Installation of BWAPP}{7}
+\contentsline {subsubsection}{\numberline {3.4.4}Installation of Ansible}{7}
+\contentsline {subsection}{\numberline {3.5}Automation of installation}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{9}
+\contentsline {subsection}{\numberline {3.6}Automation scripts}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {subsection}{\numberline {3.7}Exercise instructions}{13}
+\contentsline {subsubsection}{\numberline {3.7.1}WebGoat exercise}{13}
+\contentsline {subsubsection}{\numberline {3.7.2}Google Gruyere exercise}{16}
+\contentsline {subsubsection}{\numberline {3.7.3}BWAPP exercise}{18}
+\contentsline {section}{\numberline {4}Conclusions}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {section}{\numberline {5}Recommendations}{20}
+\contentsline {paragraph}{}{20}
